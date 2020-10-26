@@ -1,3 +1,3 @@
 # hoster
 zhost
-<h1> gitpages <h1>
+<h1> github pages <h1>
